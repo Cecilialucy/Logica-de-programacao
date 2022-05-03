@@ -16,4 +16,4 @@ if (operacao === '+') {
     resultado = a % b;
 }
 
-console.log(resultado);
+console.log(resultado);  
