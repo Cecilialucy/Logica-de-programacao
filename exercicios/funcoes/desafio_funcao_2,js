@@ -16,4 +16,4 @@ function notaParaConceito(nota) {
     }
 }
 
-console.log(`O conceito do aluno é ´${(notaParaConceito(9.1))}`)
+console.log(`O conceito do aluno é ${(notaParaConceito(9.1))}`);
