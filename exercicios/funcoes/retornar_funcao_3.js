@@ -10,7 +10,7 @@ function somar2(a) {
     }
 }
 
-console.log(somar2(5)(4));
+console.log(somar2(5)(4)); 
 
 const somarMais10 = somar2(10);
 
